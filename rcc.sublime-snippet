@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+React = require('react')
+
+class ${1} extends React.Component
+
+    render: ->
+        <div>${2}</div>
+
+module.exports = ${1}
+
+]]></content>
+    <tabTrigger>rcc</tabTrigger>
+    <description>React: component skeleton</description>
+    <scope>source.coffee</scope>
+</snippet>

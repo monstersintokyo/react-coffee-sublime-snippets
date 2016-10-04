@@ -4,6 +4,11 @@ React = require('react')
 
 class ${1} extends React.Component
 
+    constructor: (props) ->
+        super(props)
+        @state =
+            ${3}: ${4}
+
     render: ->
         <div>${2}</div>
 
@@ -11,6 +16,6 @@ module.exports = ${1}
 
 ]]></content>
     <tabTrigger>rcc</tabTrigger>
-    <description>React: component skeleton</description>
+    <description>React: component skeleton with constructor</description>
     <scope>source.coffee</scope>
 </snippet>

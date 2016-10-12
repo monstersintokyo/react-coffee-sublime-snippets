@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div className={style.${1}}>
+    ${2}
+</div>
+]]></content>
+    <tabTrigger>csd</tabTrigger>
+    <description>React: css-modules div</description>
+    <scope>source.coffee</scope>
+</snippet>

@@ -7,7 +7,9 @@ Inspired by [atom-react](https://github.com/orktes/atom-react)
 
 ## Installation
 
-There are currently two methods to install the snippets:
+There are three methods to install the snippets:
+
+* via [Sublime Package Manager](https://packagecontrol.io/) or
 
 * clone the repository into your Sublime packages directory. If you don't know where to find the directory, go to *Preferences* > *Browse Packages...* in Sublime. `git clone https://github.com/monstersintokyo/react-coffee-sublime-snippets.git`
 
